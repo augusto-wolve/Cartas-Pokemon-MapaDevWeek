@@ -2,7 +2,7 @@ body{
    background-image: url(../imagens/fundo-site.png);
    background-repeat: no-repeat;
    background-size: cover;
-   font-family: 'Lora', sans-serif;
+   font-family: 'Roboto', sans-serif;
    min-height: 100%;
 }
 
